@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Mea+Culpa&family=Mountains+of+Christmas:wght@700&display=swap');
+
+h1 {
+	font-family: 'Mountains of Christmas', cursive;
+	color: sienna;
+}
+
+h2 {
+	font-family: 'Mea Culpa', cursive;
+	font-weight: 200;
+}
+
+h3, p {
+	font-family:  'Amiri', serif;
+}
